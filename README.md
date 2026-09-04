@@ -21,6 +21,11 @@ Execute the C Program for the desired output.
 
 ## 1.To Write a C program that illustrates files copying 
 
+
+
+
+## 2.To Write a C program that illustrates files locking
+
 ```
 #include <unistd.h>
 #include <sys/stat.h>
@@ -72,14 +77,6 @@ int main(int argc, char *argv[]) {
     return EXIT_SUCCESS;
 }
 ```
-
-
-
-
-
-## 2.To Write a C program that illustrates files locking
-
-
 
 
 ## OUTPUT
